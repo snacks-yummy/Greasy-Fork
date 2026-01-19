@@ -1,0 +1,94 @@
+参考脚本索引
+（按角色分组，并补充在当前主脚本中的使用关系说明）
+
+==============================
+一、基础脚本
+==============================
+
+01) 脚本名称：新标签页打开
+    作者：X.I.U
+    链接：https://greasyfork.org/zh-CN/scripts/429714-新标签页打开链接
+    使用情况：早期基础脚本，在其思路基础上重构与扩展
+
+
+==============================
+二、功能与灵感脚本
+==============================
+
+02) 脚本名称：返回顶部和底部-美化版
+    作者：bzw1204
+    链接：https://greasyfork.org/zh-CN/scripts/457039-返回顶部和底部-美化版
+    使用情况：顶/底按钮的交互和样式思路参考，当前实现为统一封装代码
+
+03) 脚本名称：百度全页面样式优化-去广告，深色模式
+    作者：Ai-Rcccccccc (Enhanced)
+    链接：https://greasyfork.org/zh-CN/scripts/543000-百度全页面样式优化-去广告-深色模式
+    使用情况：百度搜索页样式净化与暗色模式思路参考，未检测到直接代码继承
+
+04) 脚本名称：CSDN优化
+    作者：WhiteSevs
+    链接：https://greasyfork.org/zh-CN/scripts/406136-csdn优化
+    使用情况：CSDN 页面净化与复制体验的思路参考，当前实现为自定义模块
+
+05) 脚本名称：Links Helper（🔗 链接助手）
+    作者：Pipecraft
+    链接：https://greasyfork.org/zh-CN/scripts/464541-links-helper
+    使用情况：链接悬浮/处理能力的整体思路参考，未检测到直接代码继承
+
+06) 脚本名称：知乎增强
+    作者：XIU2
+    链接：https://greasyfork.org/zh-CN/scripts/419081-zhihu-enhancement
+    使用情况：站点增强与知乎适配思路参考，当前代码按统一架构自写
+
+07) 脚本名称：跳转链接修复（移除重定向外链直达）
+    作者：maomao1996
+    链接：https://greasyfork.org/zh-CN/scripts/395970-跳转链接修复-移除重定向外链直达
+    使用情况：去重定向与外链直达规则的思路参考，未检测到完整代码片段拷贝
+
+08) 脚本名称：网盘有效性检查
+    作者：Leon406
+    链接：https://greasyfork.org/zh-CN/scripts/439266-网盘有效性检查
+    使用情况：网盘链接有效性检测与标记思路参考，当前实现为自定义检测逻辑
+
+09) 脚本名称：链接助手
+    作者：一个北七
+    链接：https://greasyfork.org/zh-CN/scripts/422773-链接助手
+    使用情况：链接信息展示与快捷操作思路参考，未检测到直接代码继承
+
+10) 脚本名称：AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列
+    作者：inDarkness
+    链接：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-重定向优化百度搜狗谷歌必应搜索-favicon-双列
+    使用情况：搜索结果重定向优化与布局思路参考，当前为统一的搜索站点增强实现
+
+11) 脚本名称：网盘智能识别助手
+    作者：🥇_🥇
+    链接：https://greasyfork.org/zh-CN/scripts/422960-网盘智能识别助手
+    使用情况：网盘识别入口与提取码交互的思路参考，未检测到直接代码继承
+
+12) 脚本名称：「CSDNGreener」CSDN广告完全过滤 / 免登录 / 个性化排版
+    作者：adlered_
+    链接：https://greasyfork.org/zh-CN/scripts/378351-csdngreener-csdn广告完全过滤-免登录-个性化排版-最强老牌脚本-持续更新
+    使用情况：CSDN 界面净化与行为限制解除的思路参考，当前逻辑为重写实现
+
+13) 脚本名称：去除链接重定向
+    作者：Meriel Varen
+    链接：https://greasyfork.org/zh-CN/scripts/483475-去除链接重定向
+    使用情况：通用去重定向策略与实现思路参考，未检测到直接代码继承
+
+14) 脚本名称：已浏览链接变色
+    作者：dddddd
+    链接：https://greasyfork.org/zh-CN/scripts/405956-已浏览链接变色
+    使用情况：已访问链接状态标记的思路参考，当前样式逻辑为统一的 CSS 注入
+
+15) 脚本名称：自动展开（AutoUnfold）
+    作者：厌学的骚年）
+    链接：https://greasyfork.org/zh-CN/scripts/438656-自动展开
+    使用情况：通过 @resource 引入外部规则脚本，在主脚本中封装为自动展开模块
+
+16) 脚本名称：redirect 外链跳转
+    作者：sakura-flutter
+    链接：https://greasyfork.org/zh-CN/scripts/416338-redirect-外链跳转
+    使用情况：外链跳转与白名单策略的思路参考，当前版本未检测到直接代码片段引用
+
+（说明：以上“使用情况”为基于你当前主脚本代码与已有说明的归纳，
+  用于记录思路来源与可能的继承关系，并非精确的代码行数统计。）
